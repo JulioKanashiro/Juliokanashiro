@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Júlio 😄
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
+![JulioKanashiro GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
 
 ## Tecnologias que eu utilizo:
  <div style="display: inline-block;">
